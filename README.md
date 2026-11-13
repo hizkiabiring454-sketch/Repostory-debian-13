@@ -31,10 +31,12 @@ sudo apt upgrade
 ```
 
 ## Author
-Nama: Stevan
+Nama: Hizkia Delsendi Sembiring
 Sekolah: SMK Telkom Medan
-Jurusan: Rekayasa Perangkat Lunak
+Jurusan: Teknik komputer dan jaringan
 Kelas: XII
 
-## License
-MIT License
+
+
+
+
